@@ -1,0 +1,4 @@
+﻿  UnitTest6.1.1.cpp
+C:\Users\zuLton\Documents\project6\Project6.1.1\UnitTest6.1.1\UnitTest6.1.1.cpp(16): error C2101: '&' on constant
+C:\Users\zuLton\Documents\project6\Project6.1.1\UnitTest6.1.1\UnitTest6.1.1.cpp(16,1): error C2440: '=': cannot convert from 'void' to 'int'
+C:\Users\zuLton\Documents\project6\Project6.1.1\UnitTest6.1.1\UnitTest6.1.1.cpp(16,11): message : Expressions of type void cannot be converted to other types
